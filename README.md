@@ -9,3 +9,4 @@ This is example to show diffrent parts of the Git Repository and Various Termino
 ## Purpose
 
 Sample website with plenty of files for demos
+## Deployment
