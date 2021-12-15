@@ -13,6 +13,8 @@ Sample website with plenty of files for demos
 
 This is a simple web project, deployment can be on any web server or even local server
 
-## Hoe to Contribute
-
+## HoW to Contribute
+	
+Please fork this repository and then issue pull request for review.
+	
 2014 Git Training
